@@ -1,0 +1,1 @@
+Nokia5110_LCD kütüphanesi, Energia IDE'si için uyarlanmış olup; web ortamında bulunamayacağından dolayı proje klasörüne eklenmiştir.
